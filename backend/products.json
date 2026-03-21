@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Laptop",
+    "price": 75000,
+    "description": "High performance laptop",
+    "category": "Electronics",
+    "stock": 10
+  },
+  {
+    "name": "Smartphone",
+    "price": 55000,
+    "description": "Latest Android smartphone with 128GB storage",
+    "category": "Electronics",
+    "stock": 15
+  },
+  {
+    "name": "Wireless Headphones",
+    "price": 8000,
+    "description": "Noise cancelling wireless headphones",
+    "category": "Electronics",
+    "stock": 25
+  },
+  {
+    "name": "Smartwatch",
+    "price": 12000,
+    "description": "Fitness tracking smartwatch",
+    "category": "Electronics",
+    "stock": 30
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 4500,
+    "description": "Portable Bluetooth speaker",
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "name": "Gaming Mouse",
+    "price": 2500,
+    "description": "RGB gaming mouse",
+    "category": "Electronics",
+    "stock": 40
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "price": 6000,
+    "description": "Mechanical keyboard with blue switches",
+    "category": "Electronics",
+    "stock": 18
+  },
+  {
+    "name": "LED Monitor",
+    "price": 10000,
+    "description": "24-inch Full HD LED monitor",
+    "category": "Electronics",
+    "stock": 12
+  },
+  {
+    "name": "External Hard Drive",
+    "price": 3800,
+    "description": "1TB external hard drive",
+    "category": "Electronics",
+    "stock": 22
+  },
+  {
+    "name": "Power Bank",
+    "price": 2000,
+    "description": "20000 mAh power bank",
+    "category": "Electronics",
+    "stock": 35
+  },
+  {
+    "name": "DSLR Camera",
+    "price": 45000,
+    "description": "Entry-level DSLR camera",
+    "category": "Electronics",
+    "stock": 8
+  },
+  {
+    "name": "Tripod Stand",
+    "price": 1200,
+    "description": "Lightweight tripod stand",
+    "category": "Accessories",
+    "stock": 50
+  },
+  {
+    "name": "Office Chair",
+    "price": 9500,
+    "description": "Ergonomic office chair",
+    "category": "Furniture",
+    "stock": 14
+  },
+  {
+    "name": "Study Desk",
+    "price": 7000,
+    "description": "Wooden study desk",
+    "category": "Furniture",
+    "stock": 10
+  },
+  {
+    "name": "Backpack",
+    "price": 1800,
+    "description": "Waterproof laptop backpack",
+    "category": "Accessories",
+    "stock": 60
+  },
+  {
+    "name": "Sneakers",
+    "price": 3200,
+    "description": "Sports sneakers",
+    "category": "Fashion",
+    "stock": 25
+  },
+  {
+    "name": "T-shirt",
+    "price": 600,
+    "description": "Cotton casual t-shirt",
+    "category": "Fashion",
+    "stock": 100
+  },
+  {
+    "name": "Jeans",
+    "price": 1200,
+    "description": "Slim fit denim jeans",
+    "category": "Fashion",
+    "stock": 40
+  },
+  {
+    "name": "Microwave Oven",
+    "price": 6500,
+    "description": "20L microwave oven",
+    "category": "Appliances",
+    "stock": 12
+  },
+  {
+    "name": "Refrigerator",
+    "price": 28000,
+    "description": "Double door refrigerator",
+    "category": "Appliances",
+    "stock": 6
+  }
+]
